@@ -1,2 +1,2 @@
 # recipe
-TokyoTreat
+Backend exercise in Ruby. Rspec for running tests.
